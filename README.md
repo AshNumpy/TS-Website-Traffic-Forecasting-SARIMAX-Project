@@ -3,11 +3,11 @@
         Click for Turkish Description
     </summary>
     
-## Project Overview:
+## Projeye Genel Bakış:
 
 Bu proje, bir TV show programının web sitesinin trafiğini zaman serisi analizi yöntemleriyle tahmin etmeyi amaçlamaktadır. Zaman serisi analizi, geçmiş verilere dayanarak gelecekteki trafiği tahmin etmek için kullanılan bir yöntemdir. Proje, programın web sitesine yapılan ziyaretlerin zaman içindeki değişimini analiz ederek, gelecekteki trafiği öngörmeyi hedeflemektedir.
 
-## Project Objectives:
+## Projenin Hedefleri:
 
 - Zaman Serisi Veri Analizi: Programın web sitesine yapılan ziyaretlerin zaman serisi verilerini toplamak ve analiz etmek.
 
@@ -15,7 +15,7 @@ Bu proje, bir TV show programının web sitesinin trafiğini zaman serisi analiz
 
 - Performans Değerlendirmesi: Oluşturulan SARIMAX modelinin performansını değerlendirmek ve tahminlerin doğruluğunu kontrol etmek.
 
-## Project Features:
+## Projenin Özellikleri:
 
 - Veri Toplama ve Önişleme: Programın web sitesine yapılan ziyaretlerin zaman serisi verilerini toplamak ve eksik verileri ele alarak veriyi hazırlamak.
 
